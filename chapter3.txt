@@ -1,1 +1,3 @@
 This is all about chaprter 3 of version control.
+All the changes are being commited under local repository.
+This is called the version control of Git Bash.
